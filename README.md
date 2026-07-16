@@ -89,10 +89,6 @@ principle    ▸ honest metrics > hero numbers
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Eishaan-Khatri/Eishaan-Khatri/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eishaan-Khatri/Eishaan-Khatri/output/snake-dark.svg" />
     <img src="https://raw.githubusercontent.com/Eishaan-Khatri/Eishaan-Khatri/output/snake.svg" alt="contribution snake" width="100%" />
