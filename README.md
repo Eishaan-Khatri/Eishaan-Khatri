@@ -94,6 +94,10 @@ location:    Hapur, India  ·  open to relocation
 - 📈 **JEE Advanced 2022** (top ~1.5 percentile) · **GATE 2026 (Data Science & AI)** qualified
 - ⭐ **3★ CodeChef** · 🤝 **Gyanarpan Teaching Volunteer** (56 hrs)
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Eishaan-Khatri&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&title=Commits,Repositories,Followers,Stars,Experience,MultiLanguage" alt="trophies" width="100%" />
+</p>
+
 ### 📊 GitHub activity
 
 <p align="center">
