@@ -97,7 +97,8 @@ location:    Hapur, India  ·  open to relocation
 ### 📊 GitHub activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Eishaan-Khatri/Eishaan-Khatri/main/metrics.svg" alt="metrics — isometric calendar, languages, habits" width="92%" />
+  <img height="205" src="https://raw.githubusercontent.com/Eishaan-Khatri/Eishaan-Khatri/main/stats-card.svg" alt="GitHub stats" />
+  <img height="205" src="https://raw.githubusercontent.com/Eishaan-Khatri/Eishaan-Khatri/main/langs-card.svg" alt="Most used languages" />
 </p>
 
 <p align="center">
@@ -105,11 +106,6 @@ location:    Hapur, India  ·  open to relocation
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eishaan-Khatri/Eishaan-Khatri/output/snake-dark.svg" />
     <img src="https://raw.githubusercontent.com/Eishaan-Khatri/Eishaan-Khatri/output/snake.svg" alt="contribution snake" width="92%" />
   </picture>
-</p>
-
-<p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=Eishaan-Khatri&show_icons=true&hide_border=true&bg_color=050810&title_color=a855f7&icon_color=7c3aed&text_color=e2e8f0&include_all_commits=true&count_private=true" alt="stats" />
-  <img height="155" src="https://github-readme-streak-stats.herokuapp.com/?user=Eishaan-Khatri&hide_border=true&background=050810&stroke=1f2733&ring=a855f7&fire=ec4899&currStreakLabel=a855f7&sideLabels=e2e8f0&dates=6b7280&currStreakNum=e2e8f0&sideNums=e2e8f0" alt="streak" />
 </p>
 
 ### 🤝 Let's connect
