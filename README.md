@@ -67,4 +67,9 @@ I work in the space between a research paper and a production system — trainin
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eishaan-Khatri&layout=compact&hide_border=true&bg_color=050810&title_color=a855f7&text_color=e2e8f0&langs_count=8&exclude_repo=free-programming-books,awesome-cheatsheets" alt="top langs" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eishaan-Khatri/Eishaan-Khatri/output/snake-dark.svg" />
+  <img align="center" src="https://raw.githubusercontent.com/Eishaan-Khatri/Eishaan-Khatri/output/snake.svg" alt="contribution snake" />
+</picture>
+
 <p align="center"><sub>Robustness over leaderboard chasing. Honest metrics over hero numbers.</sub></p>
