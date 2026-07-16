@@ -97,8 +97,8 @@ location:    Hapur, India  ·  open to relocation
 ### 📊 GitHub activity
 
 <p align="center">
-  <img height="205" src="https://raw.githubusercontent.com/Eishaan-Khatri/Eishaan-Khatri/main/stats-card.svg" alt="GitHub stats" />
-  <img height="205" src="https://raw.githubusercontent.com/Eishaan-Khatri/Eishaan-Khatri/main/langs-card.svg" alt="Most used languages" />
+  <img height="205" src="https://raw.githubusercontent.com/Eishaan-Khatri/Eishaan-Khatri/main/stats-card.svg?v=2" alt="GitHub stats" />
+  <img height="205" src="https://raw.githubusercontent.com/Eishaan-Khatri/Eishaan-Khatri/main/langs-card.svg?v=2" alt="Most used languages" />
 </p>
 
 <p align="center">
